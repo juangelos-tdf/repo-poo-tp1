@@ -1,0 +1,82 @@
+
+
+
+
+class Cadena
+   value : string
+
+
+
+
+
+class Telefono 
+   ctor(dño : Cadena)
+
+   estaPrendido : boolean
+   bateriaActual : number
+
+   mandarMensaje(msg: string)
+   mandarWhatsapp(msg: Cadena)
+
+-----------------------------------------------
+
+
+
+
+dueño = new Cadena("Pedro");
+tel = new Telefono(dueño);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    var emp = new Empresa();
+
+    emp.Nombre = "Intel";
+    
+
+    var cte = new Cliente();
+
+    ...
+
+    emp.addCliente(cte);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
